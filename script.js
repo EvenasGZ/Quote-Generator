@@ -298,3 +298,5 @@ function copy() {
     alert("Tidak ada teks yang dapat disalin!");
   }
 }
+
+console.log('All work')
